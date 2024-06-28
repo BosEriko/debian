@@ -8,6 +8,7 @@
 !zsh/**
 !.gitconfig
 !.gitignore
+!.gitmodules
 !.zshrc
 !example.env.z.sh
 !README.md

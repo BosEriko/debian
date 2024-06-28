@@ -13,10 +13,7 @@ set-origins() {
 }
 
 # Update origin for .files
-set-origins ~/.files BosEriko/dotfiles-windows
-
-# Update origin for history
-set-origins ~/.history BosEriko/history
+set-origins ~ BosEriko/debian
 
 # Update origin for password
 set-origins $STORAGE/Password BosEriko/password

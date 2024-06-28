@@ -7,7 +7,6 @@ sudo apt update -y && sudo apt upgrade -y                                       
 sudo apt install -y zsh                                                                            # Zsh is a shell designed for interactive use (http://www.zsh.org/)
 sudo apt install -y rbenv                                                                          # Groom your app’s Ruby environment (https://github.com/rbenv/rbenv)
 sudo apt install -y figlet                                                                         # FIGlet is a program for making large letters out of ordinary text (http://www.figlet.org/)
-sudo apt install -y fortune                                                                        # Fortune CLI (https://gist.github.com/zlorb/4a3eff8981fcec8ca1c7)
 
 # PostgreSQL, also known as Postgres, is a free and open-source relational database management system (https://www.postgresql.org)
 sudo apt install -y postgresql

@@ -15,14 +15,14 @@ git pull --recurse-submodules
 ## Setup Environment Variables
 Before running the installation script you first need to setup a few things. Run the command below to setup your environment variables.
 ```sh
-cp ~/.files/example.env.z.sh ~/.files/env.z.sh
-nano ~/.files/env.z.sh
+cp ~/example.env.z.sh ~/env.z.sh
+nano ~/env.z.sh
 ```
 
 ## Installation Script
 After setting up the environment variables you can now proceed to the installation script. Run the command below to start installing.
 ```sh
-source ~/.files/env.z.sh && ~/.files/install/entry.sh
+source ~/env.z.sh && ~/.files/install/entry.sh
 ```
 
 ## Call to action

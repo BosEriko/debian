@@ -7,4 +7,5 @@
 !.gitconfig
 !.gitignore
 !.zshrc
+!example.env.z.sh
 !README.md

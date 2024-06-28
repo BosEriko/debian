@@ -1,8 +1,5 @@
 #!/usr/bin/env sh
 
-# Update and Upgrade apt
-sudo apt update -y && sudo apt upgrade -y                                                          # Update and upgrade Ubuntu
-
 # Install packages
 sudo apt install -y zsh                                                                            # Zsh is a shell designed for interactive use (http://www.zsh.org/)
 sudo apt install -y rbenv                                                                          # Groom your app’s Ruby environment (https://github.com/rbenv/rbenv)

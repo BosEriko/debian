@@ -24,7 +24,7 @@ nano ~/env.z.sh
 ## Installation Script
 After setting up the environment variables you can now proceed to the installation script. Run the command below to start installing.
 ```sh
-source ~/env.z.sh && ~/.files/install/entry.sh
+source ~/env.z.sh && sudo ~/.files/install/entry.sh
 ```
 
 ## Call to action

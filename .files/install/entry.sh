@@ -12,3 +12,4 @@
 ~/.files/install/modules/pull.sh
 ~/.files/install/modules/origin.sh
 ~/.files/install/modules/ssh.sh
+~/.files/install/modules/reset.sh

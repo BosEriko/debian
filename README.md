@@ -11,7 +11,7 @@ git init
 git remote add origin https://github.com/BosEriko/debian.git
 git fetch
 git reset --hard origin/master
-git pull --recurse-submodules
+git pull origin master --recurse-submodules
 ```
 
 ## Setup Environment Variables

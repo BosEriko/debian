@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.files/
+!.files/**
+!.gitconfig
+!.gitignore
+!.zshrc
+!README.md

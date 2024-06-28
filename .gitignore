@@ -4,8 +4,6 @@
 # But not these files...
 !.files/
 !.files/**
-!zsh/
-!zsh/**
 !.gitconfig
 !.gitignore
 !.gitmodules
